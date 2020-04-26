@@ -1,0 +1,15 @@
+examples.desktop
+nginx.tar
+root_entries.txt
+script_4_8_1_output.txt
+script4_8_1.sh
+script.sh
+setuid.txt
+textfile2.txt
+textfile.txt
+ubuntu.tar
+test3.txt
+naidatext2.txt
+naidatext.txt
+nano.save
+output.txt

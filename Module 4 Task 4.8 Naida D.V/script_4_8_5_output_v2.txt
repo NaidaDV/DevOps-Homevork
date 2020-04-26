@@ -1,0 +1,6 @@
+script_4_8_1_output.txt
+script4_8_1.sh
+textfile2.txt
+test3.txt
+dir1
+naidatext2.txt

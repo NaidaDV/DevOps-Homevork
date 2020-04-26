@@ -1,0 +1,51 @@
+/home/utest:
+drwxrwxrwx 2 utest utest      4096 бер 24 17:09 Desktop
+drwxrwxrwx 2 utest utest      4096 бер 24 17:09 Documents
+drwxrwxrwx 2 utest utest      4096 кві  3 13:44 Downloads
+-rwxrwxrwx 1 utest utest      8980 бер 24 17:00 examples.desktop
+drwxrwxrwx 2 utest utest      4096 бер 24 17:09 Music
+-rwxrwxrwx 1 utest utest 130618880 кві  3 13:44 nginx.tar
+drwxrwxrwx 2 utest utest      4096 кві 23 17:55 Pictures
+drwxrwxrwx 2 utest utest      4096 бер 24 17:09 Public
+-rwxrwxrwx 1 utest utest     35737 кві 16 16:51 root_entries.txt
+-rw-r--r-- 1 utest utest         0 кві 26 19:12 script_4_8_1_output.txt
+-rwxr-xr-x 1 utest utest       949 кві 26 19:11 script4_8_1.sh
+-rwxrwxrwx 1 utest utest        39 кві 21 15:25 script.sh
+-rwxrwxrwx 1 utest utest     11222 кві 16 16:04 setuid.txt
+drwxrwxrwx 2 utest utest      4096 бер 24 17:09 Templates
+drwxr-xr-x 2 utest utest      4096 кві 16 16:20 test
+-rw-r--r-- 1 utest utest       176 кві 26 15:53 textfile2.txt
+-rw-r--r-- 1 utest utest         8 кві 26 14:56 textfile.txt
+drwxrwxrwx 3 utest utest      4096 кві 14 15:32 tmp
+-rwxrwxrwx 1 utest utest  66612224 кві  3 13:43 ubuntu.tar
+drwxrwxrwx 2 utest utest      4096 бер 24 17:09 Videos
+
+/home/utest/Desktop:
+
+/home/utest/Documents:
+
+/home/utest/Downloads:
+
+/home/utest/Music:
+
+/home/utest/Pictures:
+-rwxrwxrwx 1 utest utest 156549 бер 24 19:24 Screenshot from 2020-03-24 19-24-50.png
+-rwxrwxrwx 1 utest utest 182907 кві 23 17:55 Screenshot from 2020-04-23 17-55-18.png
+
+/home/utest/Public:
+
+/home/utest/Templates:
+
+/home/utest/test:
+lrwxrwxrwx 1 utest utest 9 кві 16 16:18 test3.txt -> test2.txt
+
+/home/utest/tmp:
+drwxrwxrwx 2 utest utest 4096 кві 14 20:14 dir1
+
+/home/utest/tmp/dir1:
+-rwxrwxrwx 1 utest utest  137 кві 14 16:23 naidatext2.txt
+-rwxrwxrwx 1 utest utest   76 кві 14 16:19 naidatext.txt
+-rwxrwxrwx 1 utest utest    0 кві 14 20:14 nano.save
+-rwxrwxrwx 1 utest utest 1584 кві 14 16:59 output.txt
+
+/home/utest/Videos:

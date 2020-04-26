@@ -1,0 +1,63 @@
+/home/sined:
+total 192728
+drwxrwxrwx 2 sined sined      4096 бер 24 17:09 Desktop
+drwxrwxrwx 2 sined sined      4096 бер 24 17:09 Documents
+drwxrwxrwx 2 sined sined      4096 кві  3 13:44 Downloads
+-rwxrwxrwx 1 sined sined      8980 бер 24 17:00 examples.desktop
+drwxrwxrwx 2 sined sined      4096 бер 24 17:09 Music
+-rwxrwxrwx 1 sined sined 130618880 кві  3 13:44 nginx.tar
+drwxrwxrwx 2 sined sined      4096 кві 23 17:55 Pictures
+drwxrwxrwx 2 sined sined      4096 бер 24 17:09 Public
+-rwxrwxrwx 1 sined sined     35737 кві 16 16:51 root_entries.txt
+-rw-r--r-- 1 sined sined         0 кві 26 19:12 script_4_8_1_output.txt
+-rwxr-xr-x 1 sined sined       949 кві 26 19:11 script4_8_1.sh
+-rwxrwxrwx 1 sined sined        39 кві 21 15:25 script.sh
+-rwxrwxrwx 1 sined sined     11222 кві 16 16:04 setuid.txt
+drwxrwxrwx 2 sined sined      4096 бер 24 17:09 Templates
+drwxr-xr-x 2 sined sined      4096 кві 16 16:20 test
+-rw-r--r-- 1 sined sined       176 кві 26 15:53 textfile2.txt
+-rw-r--r-- 1 sined sined         8 кві 26 14:56 textfile.txt
+drwxrwxrwx 3 sined sined      4096 кві 14 15:32 tmp
+-rwxrwxrwx 1 sined sined  66612224 кві  3 13:43 ubuntu.tar
+drwxrwxrwx 2 sined sined      4096 бер 24 17:09 Videos
+
+/home/sined/Desktop:
+total 0
+
+/home/sined/Documents:
+total 0
+
+/home/sined/Downloads:
+total 0
+
+/home/sined/Music:
+total 0
+
+/home/sined/Pictures:
+total 336
+-rwxrwxrwx 1 sined sined 156549 бер 24 19:24 Screenshot from 2020-03-24 19-24-50.png
+-rwxrwxrwx 1 sined sined 182907 кві 23 17:55 Screenshot from 2020-04-23 17-55-18.png
+
+/home/sined/Public:
+total 0
+
+/home/sined/Templates:
+total 0
+
+/home/sined/test:
+total 0
+lrwxrwxrwx 1 sined sined 9 кві 16 16:18 test3.txt -> test2.txt
+
+/home/sined/tmp:
+total 4
+drwxrwxrwx 2 sined sined 4096 кві 14 20:14 dir1
+
+/home/sined/tmp/dir1:
+total 12
+-rwxrwxrwx 1 sined sined  137 кві 14 16:23 naidatext2.txt
+-rwxrwxrwx 1 sined sined   76 кві 14 16:19 naidatext.txt
+-rwxrwxrwx 1 sined sined    0 кві 14 20:14 nano.save
+-rwxrwxrwx 1 sined sined 1584 кві 14 16:59 output.txt
+
+/home/sined/Videos:
+total 0
