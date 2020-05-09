@@ -1,0 +1,168 @@
+NEW LOG POINT
+8 травня 2020 17:34:01
+__________________________________________
+Current average kernel context switches per second = 2308
+------------------------------------------------
+Current load average in last 15 seconds: 0,39
+------------------------------------------------
+Current swapfile status: full size is 472M and free size is 472M
+------------------------------------------------
+Current hard drive partition ststus:
+ Filesystem      Size  Used Avail Use% Mounted on
+udev            3,9G     0  3,9G   0% /dev
+tmpfs           797M  1,7M  795M   1% /run
+/dev/sda1       9,8G  8,6G  682M  93% /
+tmpfs           3,9G     0  3,9G   0% /dev/shm
+tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+tmpfs           3,9G     0  3,9G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/296
+/dev/loop2       94M   94M     0 100% /snap/core/8935
+/dev/loop0      161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop5      193M  193M     0 100% /snap/microk8s/1378
+/dev/loop4      3,8M  3,8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop6      2,5M  2,5M     0 100% /snap/gnome-calculator/730
+/dev/loop8      150M  150M     0 100% /snap/gnome-3-28-1804/67
+/dev/loop7       94M   94M     0 100% /snap/core/9066
+/dev/loop9       55M   55M     0 100% /snap/core18/1754
+/dev/loop13      15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop15     1,0M  1,0M     0 100% /snap/gnome-logs/93
+/dev/loop16     243M  243M     0 100% /snap/gnome-3-34-1804/27
+/dev/loop18      55M   55M     0 100% /snap/core18/1705
+/dev/loop10     192M  192M     0 100% /snap/microk8s/1341
+/dev/loop17      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/sdb        976M  149M  760M  17% /utest47
+/dev/loop19     1,0M  1,0M     0 100% /snap/gnome-logs/100
+/dev/loop20     2,5M  2,5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     2,3M  2,3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop22     256M  256M     0 100% /snap/gnome-3-34-1804/33
+share           932G  818G  115G  88% /media/sf_share
+tmpfs           797M   28K  797M   1% /run/user/121
+tmpfs           797M   56K  797M   1% /run/user/1000
+
+NEW LOG POINT
+8 травня 2020 17:36:01
+__________________________________________
+Current average kernel context switches per second = 2393
+------------------------------------------------
+Current load average in last 15 seconds: 0,41
+------------------------------------------------
+Current swapfile status: full size is 472M and free size is 472M
+------------------------------------------------
+Current hard drive partition ststus:
+ Filesystem      Size  Used Avail Use% Mounted on
+udev            3,9G     0  3,9G   0% /dev
+tmpfs           797M  1,7M  795M   1% /run
+/dev/sda1       9,8G  8,6G  682M  93% /
+tmpfs           3,9G     0  3,9G   0% /dev/shm
+tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+tmpfs           3,9G     0  3,9G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/296
+/dev/loop2       94M   94M     0 100% /snap/core/8935
+/dev/loop0      161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop5      193M  193M     0 100% /snap/microk8s/1378
+/dev/loop4      3,8M  3,8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop6      2,5M  2,5M     0 100% /snap/gnome-calculator/730
+/dev/loop8      150M  150M     0 100% /snap/gnome-3-28-1804/67
+/dev/loop7       94M   94M     0 100% /snap/core/9066
+/dev/loop9       55M   55M     0 100% /snap/core18/1754
+/dev/loop13      15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop15     1,0M  1,0M     0 100% /snap/gnome-logs/93
+/dev/loop16     243M  243M     0 100% /snap/gnome-3-34-1804/27
+/dev/loop18      55M   55M     0 100% /snap/core18/1705
+/dev/loop10     192M  192M     0 100% /snap/microk8s/1341
+/dev/loop17      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/sdb        976M  149M  760M  17% /utest47
+/dev/loop19     1,0M  1,0M     0 100% /snap/gnome-logs/100
+/dev/loop20     2,5M  2,5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     2,3M  2,3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop22     256M  256M     0 100% /snap/gnome-3-34-1804/33
+share           932G  818G  115G  88% /media/sf_share
+tmpfs           797M   28K  797M   1% /run/user/121
+tmpfs           797M   60K  797M   1% /run/user/1000
+
+NEW LOG POINT
+8 травня 2020 17:38:01
+__________________________________________
+Current average kernel context switches per second = 2102
+------------------------------------------------
+Current load average in last 15 seconds: 0,37
+------------------------------------------------
+Current swapfile status: full size is 472M and free size is 472M
+------------------------------------------------
+Current hard drive partition ststus:
+ Filesystem      Size  Used Avail Use% Mounted on
+udev            3,9G     0  3,9G   0% /dev
+tmpfs           797M  1,7M  795M   1% /run
+/dev/sda1       9,8G  8,6G  682M  93% /
+tmpfs           3,9G     0  3,9G   0% /dev/shm
+tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+tmpfs           3,9G     0  3,9G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/296
+/dev/loop2       94M   94M     0 100% /snap/core/8935
+/dev/loop0      161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop5      193M  193M     0 100% /snap/microk8s/1378
+/dev/loop4      3,8M  3,8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop6      2,5M  2,5M     0 100% /snap/gnome-calculator/730
+/dev/loop8      150M  150M     0 100% /snap/gnome-3-28-1804/67
+/dev/loop7       94M   94M     0 100% /snap/core/9066
+/dev/loop9       55M   55M     0 100% /snap/core18/1754
+/dev/loop13      15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop15     1,0M  1,0M     0 100% /snap/gnome-logs/93
+/dev/loop16     243M  243M     0 100% /snap/gnome-3-34-1804/27
+/dev/loop18      55M   55M     0 100% /snap/core18/1705
+/dev/loop10     192M  192M     0 100% /snap/microk8s/1341
+/dev/loop17      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/sdb        976M  149M  760M  17% /utest47
+/dev/loop19     1,0M  1,0M     0 100% /snap/gnome-logs/100
+/dev/loop20     2,5M  2,5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     2,3M  2,3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop22     256M  256M     0 100% /snap/gnome-3-34-1804/33
+share           932G  818G  115G  88% /media/sf_share
+tmpfs           797M   28K  797M   1% /run/user/121
+tmpfs           797M   60K  797M   1% /run/user/1000
+
+NEW LOG POINT
+8 травня 2020 17:40:01
+__________________________________________
+Current average kernel context switches per second = 1605
+------------------------------------------------
+Current load average in last 15 seconds: 0,34
+------------------------------------------------
+Current swapfile status: full size is 472M and free size is 472M
+------------------------------------------------
+Current hard drive partition ststus:
+ Filesystem      Size  Used Avail Use% Mounted on
+udev            3,9G     0  3,9G   0% /dev
+tmpfs           797M  1,7M  795M   1% /run
+/dev/sda1       9,8G  8,6G  681M  93% /
+tmpfs           3,9G     0  3,9G   0% /dev/shm
+tmpfs           5,0M  4,0K  5,0M   1% /run/lock
+tmpfs           3,9G     0  3,9G   0% /sys/fs/cgroup
+/dev/loop1       15M   15M     0 100% /snap/gnome-characters/296
+/dev/loop2       94M   94M     0 100% /snap/core/8935
+/dev/loop0      161M  161M     0 100% /snap/gnome-3-28-1804/116
+/dev/loop3       63M   63M     0 100% /snap/gtk-common-themes/1506
+/dev/loop5      193M  193M     0 100% /snap/microk8s/1378
+/dev/loop4      3,8M  3,8M     0 100% /snap/gnome-system-monitor/135
+/dev/loop6      2,5M  2,5M     0 100% /snap/gnome-calculator/730
+/dev/loop8      150M  150M     0 100% /snap/gnome-3-28-1804/67
+/dev/loop7       94M   94M     0 100% /snap/core/9066
+/dev/loop9       55M   55M     0 100% /snap/core18/1754
+/dev/loop13      15M   15M     0 100% /snap/gnome-characters/495
+/dev/loop15     1,0M  1,0M     0 100% /snap/gnome-logs/93
+/dev/loop16     243M  243M     0 100% /snap/gnome-3-34-1804/27
+/dev/loop18      55M   55M     0 100% /snap/core18/1705
+/dev/loop10     192M  192M     0 100% /snap/microk8s/1341
+/dev/loop17      55M   55M     0 100% /snap/gtk-common-themes/1502
+/dev/sdb        976M  149M  760M  17% /utest47
+/dev/loop19     1,0M  1,0M     0 100% /snap/gnome-logs/100
+/dev/loop20     2,5M  2,5M     0 100% /snap/gnome-calculator/748
+/dev/loop21     2,3M  2,3M     0 100% /snap/gnome-system-monitor/145
+/dev/loop22     256M  256M     0 100% /snap/gnome-3-34-1804/33
+share           932G  818G  115G  88% /media/sf_share
+tmpfs           797M   28K  797M   1% /run/user/121
+tmpfs           797M   56K  797M   1% /run/user/1000
+
